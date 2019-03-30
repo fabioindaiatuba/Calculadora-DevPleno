@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
   result: {   
     flex: 0.4,
     backgroundColor: '#EFEFEF',
-    fontSize: 35,
+    fontSize: 30,
     textAlign: 'right',
     paddingBottom: 10,
     paddingRight: 10,
